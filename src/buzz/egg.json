@@ -4,14 +4,16 @@
   "entry": "./mod.ts",
   "description": "Buzz.",
   "homepage": "",
-  "version": "1.0.1",
-  "releaseType": "patch",
+  "version": "1.0.5",
+  "releaseType": null,
   "unstable": true,
   "unlisted": false,
   "files": [
+    "egg.json",
     "mod.ts",
     "biz.js",
-    "generate.js"
+    "generate.js",
+    "README.md"
   ],
   "ignore": [],
   "checkFormat": false,

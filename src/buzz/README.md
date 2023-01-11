@@ -1,5 +1,5 @@
 # Buzz
 
 ```bash
-$ deno run https://x.nest.land/re-buzz help
+$ deno run ${Nest.land latest url} help
 ```
