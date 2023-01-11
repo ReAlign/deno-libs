@@ -1,0 +1,21 @@
+{
+  "$schema": "https://x.nest.land/eggs@0.3.10/src/schema.json",
+  "name": "realign-deno-demo",
+  "entry": "./mod.ts",
+  "description": "realign deno demo.",
+  "homepage": "",
+  "version": "0.0.2",
+  "releaseType": null,
+  "unstable": true,
+  "unlisted": false,
+  "files": [
+    "mod.ts"
+  ],
+  "ignore": [
+    "eggs-debug.log"
+  ],
+  "checkFormat": false,
+  "checkTests": false,
+  "checkInstallation": false,
+  "check": true
+}
